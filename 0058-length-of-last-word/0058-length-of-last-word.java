@@ -1,3 +1,4 @@
+/*Test*/
 class Solution {
     public int lengthOfLastWord(String s) {
          final int lastIndex = s.length();
